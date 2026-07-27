@@ -173,7 +173,7 @@ PoliticalParty
 
 ---
 
-# ⚙️ Validation Rules
+# Validation Rules
 
 ### Candidate
 
