@@ -138,15 +138,15 @@ Smart-Voting-System/
 
 This project demonstrates the following OOP concepts:
 
-- ✅ Classes
-- ✅ Objects
-- ✅ Inheritance
-- ✅ Encapsulation
-- ✅ Polymorphism (Virtual Functions)
-- ✅ Abstraction
-- ✅ Composition
-- ✅ Constructors
-- ✅ Function Overriding
+-  Classes
+-  Objects
+-  Inheritance
+-  Encapsulation
+-  Polymorphism (Virtual Functions)
+-  Abstraction
+-  Composition
+-  Constructors
+-  Function Overriding
 
 ---
 
